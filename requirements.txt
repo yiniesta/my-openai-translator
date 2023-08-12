@@ -1,0 +1,14 @@
+pdfplumber
+simplejson
+requests
+PyYAML
+pillow
+reportlab
+pandas
+loguru
+openai
+pygame
+flask
+streamlit
+PyPDF2
+python-docx
